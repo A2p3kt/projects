@@ -3,7 +3,7 @@ import sys
 import check50
 import check50.py
 
-from nltk import Tree
+from nltk.tree import Tree
 
 
 @check50.check()
